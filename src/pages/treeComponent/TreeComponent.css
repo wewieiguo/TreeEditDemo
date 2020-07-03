@@ -1,0 +1,12 @@
+.title-container {
+    display        : flex;
+    justify-content: space-between;
+    align-items    : center;
+}
+
+
+.edit-button {
+    width           : 20px;
+    height          : 20px;
+    background-color: #666;
+}
